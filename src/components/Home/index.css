@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.home1 {
+  height: 300px;
+  width: 300px;
+}
+.home2 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 85vh;
+}
+.one1 {
+  background-color: black;
+}
